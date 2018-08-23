@@ -1,0 +1,8 @@
+{
+  "name": "text-qrcode",
+  "version": "0.1.0",
+  "description": "A node.js library to create text qr code.",
+  "main": "index.js",
+  "author": "",
+  "license": "Apache"
+}
